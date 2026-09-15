@@ -2,6 +2,7 @@
   "entrepreneurs": [
     {
       "id": 1,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1GQSs7LuBtA4cHbXSFw1HcMfTPzKsFtRE",
       "nom": "Damien Desard",
       "metier": "Réparateur de vélo à domicile",
@@ -15,11 +16,12 @@
       "lien3": null,
       "lien3type": null,
       "email": "damien.desard3@gmail.com",
-      "telephone": null,
+      "telephone": "0650414545",
       "intervention": "Bassin d'arcachon, val de l'eyre et nord des landes"
     },
     {
       "id": 2,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1hZ-0sbfZsAvf3TSuM7phYflazeR2a7t9",
       "nom": "Christine GARBAY",
       "metier": "Optimisation de l'administratif",
@@ -38,6 +40,7 @@
     },
     {
       "id": 3,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1dbGIQ3dpR2tzXHAhPIz6WRtBQ-enXOr-",
       "nom": "Igor VAS-DEYRES",
       "metier": "Webmaster WordPress",
@@ -51,11 +54,12 @@
       "lien3": null,
       "lien3type": null,
       "email": "contact@alchimigo.com",
-      "telephone": null,
+      "telephone": "07.66.06.27.27",
       "intervention": "Partout"
     },
     {
       "id": 4,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1_hEI0vM7sAdUiecBgW2iHugSuctEpkaQ",
       "nom": "Nicolas LOUET",
       "metier": "Agent immobilier",
@@ -74,6 +78,7 @@
     },
     {
       "id": 5,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1n9V3QMJaueBtjM0Ocz5QolFcy7LLQTTn",
       "nom": "Aurélie Dicharry Labansat",
       "metier": "Banque assurance",
@@ -92,6 +97,7 @@
     },
     {
       "id": 6,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1Gg4tuo1bxCgJL2gKQCSVOR9h5gxH00h7",
       "nom": "Zoonekynd natacha",
       "metier": "Massages",
@@ -110,6 +116,7 @@
     },
     {
       "id": 7,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1iugHQouNPQUAn5aEQuKVhaep0u9QWr0D",
       "nom": "Audrey Beauduc",
       "metier": "Artiste Peintre Muraliste",
@@ -123,11 +130,12 @@
       "lien3": "https://www.facebook.com/audreybeauducartistepeintre",
       "lien3type": "facebook",
       "email": "audreydessinsetcreations@gmail.com",
-      "telephone": null,
+      "telephone": "0620560405",
       "intervention": "Nouvelle Aquitaine"
     },
     {
       "id": 8,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1MXjI0Jl47cN2caZOxZaCMYW8NGPLBe9l",
       "nom": "Marie Vas-Deyres",
       "metier": "Sites internet sur mesure",
@@ -146,6 +154,7 @@
     },
     {
       "id": 9,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1X5wcyNG8Ps5ZDX1qOcKIIreAsICp-0rs",
       "nom": "Tiphaine DUNIAUD",
       "metier": "Coach réseaux sociaux",
@@ -164,6 +173,7 @@
     },
     {
       "id": 10,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1DG23Mz76FKzxLVEPGZWuDiXxx4_gFzi4",
       "nom": "Dominique Laborderie",
       "metier": "Formatrice professionnelle & collagiste",
@@ -182,6 +192,7 @@
     },
     {
       "id": 11,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=10vMD1tFuAjCY49ODbbQoN5enP9aHX0nv",
       "nom": "Christophe lopez",
       "metier": "Conciergerie et service nettoyage",
@@ -200,6 +211,7 @@
     },
     {
       "id": 12,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1FzW9E6RsD1J8ApoSpoLFXIGPtIDaOcz1",
       "nom": "Chauveteau jordan",
       "metier": "Coach sportif",
@@ -218,6 +230,7 @@
     },
     {
       "id": 13,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1kli47kw0ODo-qwiEjq7D_Go5ZUP6KPOY",
       "nom": "Laetitia Mallard",
       "metier": "Travel planner",
@@ -236,6 +249,7 @@
     },
     {
       "id": 14,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1mtmmOKRg4GeJxw8V3BZ604aXSMeavI-f",
       "nom": "Patrick Seyrès",
       "metier": "Gestion de patrimoine et Placement",
@@ -254,6 +268,7 @@
     },
     {
       "id": 15,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1EbJVcXiMoGN8EygBu9dgwrMrko9Sh6yv",
       "nom": "Mélissande PENNIELLO",
       "metier": "Thérapeute en Hypnose",
@@ -272,6 +287,7 @@
     },
     {
       "id": 16,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1Z-AJtnIWVCX3scK-XgRxe84ICudfvB_o",
       "nom": "Arnaud Rispal",
       "metier": "Diagnostics immobiliers",
@@ -290,6 +306,7 @@
     },
     {
       "id": 17,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1qHdIP8hLEv_PT50QrBSWfZCKUIpIrx2r",
       "nom": "Marion Peafrini",
       "metier": "Accompagnatrice en mieux-être",
@@ -308,6 +325,7 @@
     },
     {
       "id": 18,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1pWDIaX45JsymFCI-rB4zqdhNPgSi27Bp",
       "nom": "Pivoine des Grands Prés",
       "metier": "Couture Repassage Retouche",
@@ -326,6 +344,7 @@
     },
     {
       "id": 19,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1ar5LCp1NW_s9OmuzncNb0YavOxd6mz_u",
       "nom": "Peggy Mintoff",
       "metier": "Praticienne holistique",
@@ -344,6 +363,7 @@
     },
     {
       "id": 20,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1-hys3iffAVN5emci9sykvggjL2-RyLfF",
       "nom": "Philippe Raynaud",
       "metier": "Formateur Coach Facilitateur",
@@ -362,6 +382,7 @@
     },
     {
       "id": 21,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1Z9MGPpb7enkZWpWzRWtDWEi4HRCVJrDz",
       "nom": "Florence Bourguignon",
       "metier": "Accompagnatrice de projets et de talents",
@@ -375,11 +396,12 @@
       "lien3": null,
       "lien3type": null,
       "email": "florence@novaia.pro",
-      "telephone": null,
+      "telephone": "07 60 80 12 55",
       "intervention": "Bassin d'Arcachon - Porte du Médoc"
     },
     {
       "id": 22,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1UwL8RXUJkMEKhK1ZIqq7WIuY-siB637e",
       "nom": "Émilie Desvignes",
       "metier": "Artisane du lien familial et photographe",
@@ -398,6 +420,7 @@
     },
     {
       "id": 23,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=14Ipc8IgGJiOpuXfhm57thsSYU4-EjfHO",
       "nom": "Marjorie RIFFAUD",
       "metier": "Coach de couples",
@@ -416,6 +439,7 @@
     },
     {
       "id": 24,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1JnWJw_U0y1CWDlZEORoPpeW-9xYEfTbL",
       "nom": "Florian Michiels",
       "metier": "Restaurant Crêp'eat Arès",
@@ -434,6 +458,7 @@
     },
     {
       "id": 25,
+      "fondatrice": true,
       "photo": "https://drive.google.com/uc?export=view&id=1QL83FqNsjf5goO9veE-YlUuX_yddck9r",
       "nom": "Christel Biau",
       "metier": "Coach Préparation mentale",
@@ -452,6 +477,7 @@
     },
     {
       "id": 26,
+      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1rnA5Rbty-s-Lrd1Euuv7DVcgmC3HAWv-",
       "nom": "Christophe lopez",
       "metier": "Conciergerie et entretien des locaux",
@@ -465,9 +491,9 @@
       "lien3": null,
       "lien3type": null,
       "email": "christopheconciergerie33@gmail.com",
-      "telephone": null,
+      "telephone": "0666761111",
       "intervention": "Ares andernos lanton et la presqu ile"
     }
   ],
-  "updated": "2026-09-15T02:14:03.196Z"
+  "updated": "2026-09-15T03:05:57.621Z"
 }
