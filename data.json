@@ -458,6 +458,25 @@
     },
     {
       "id": 25,
+      "fondatrice": true,
+      "photo": "https://drive.google.com/uc?export=view&id=1QL83FqNsjf5goO9veE-YlUuX_yddck9r",
+      "nom": "Christel Biau",
+      "metier": "Coach Préparation mentale",
+      "ville": "Arès",
+      "signature": "Coach en leadership et préparation mentale, j'aide les entrepreneurs ambitieux à retrouver une direction claire pour réussir durablement sans sacrifier leur vie personnelle.",
+      "description": "Ouvert de 9h à 20h 6j7 en service continu",
+      "lien1": "https://linktr.ee/cbiau",
+      "lien1type": "site",
+      "lien2": "https://www.youtube.com/@ChristelBiau",
+      "lien2type": "youtube",
+      "lien3": "https://www.linkedin.com/in/christel-biau/",
+      "lien3type": "linkedin",
+      "email": "contact@christelbiau.fr",
+      "telephone": null,
+      "intervention": "Partout dans le monde grâce aux visio"
+    },
+    {
+      "id": 26,
       "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1rnA5Rbty-s-Lrd1Euuv7DVcgmC3HAWv-",
       "nom": "Christophe lopez",
@@ -476,5 +495,5 @@
       "intervention": "Ares andernos lanton et la presqu ile"
     }
   ],
-  "updated": "2026-09-15T03:47:27.642Z"
+  "updated": "2026-09-15T03:48:28.382Z"
 }
