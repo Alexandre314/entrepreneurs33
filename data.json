@@ -459,25 +459,6 @@
     {
       "id": 25,
       "fondatrice": false,
-      "photo": "https://drive.google.com/uc?export=view&id=1zl-Gxp0pBesT7rvMDnlqJEaQ99SsJjz6",
-      "nom": "test chris",
-      "metier": "Christel Biau Coaching",
-      "ville": "Arès",
-      "signature": "fsfdsfdsfdsf\nfdsfsdfdsfdsfds\nfdsfdsfsdfsdfs",
-      "description": "fsdfdsfsdfds\nfds\nfds\nfds\nf\ndsf\nds\nfsd\nf\nds\nf\nds\nfds\nf\nds\nf\nds\nfsdfsdff",
-      "lien1": "https://linktr.ee/cbiau",
-      "lien1type": "site",
-      "lien2": "https://www.youtube.com/@ChristelBiau",
-      "lien2type": "youtube",
-      "lien3": "https://www.christelbiau.fr/",
-      "lien3type": "site",
-      "email": "cbiaucoaching@gmail.com",
-      "telephone": "06.59.55.82.23",
-      "intervention": "France et monde francophone"
-    },
-    {
-      "id": 26,
-      "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1V_t41etrmMRLxV1ZccSuTZpOV2OZVXfQ",
       "nom": "Audrey JORGE",
       "metier": "Sophrologue",
@@ -495,5 +476,5 @@
       "intervention": "Nord Bassin d’Arcachon"
     }
   ],
-  "updated": "2026-09-16T14:03:30.288Z"
+  "updated": "2026-09-16T14:08:47.388Z"
 }
