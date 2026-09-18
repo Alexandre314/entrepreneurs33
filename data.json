@@ -41,7 +41,7 @@
     {
       "id": 3,
       "fondatrice": false,
-      "photo": null,
+      "photo": "https://drive.google.com/uc?export=view&id=1dbGIQ3dpR2tzXHAhPIz6WRtBQ-enXOr-",
       "nom": "Igor VAS-DEYRES",
       "metier": "Webmaster WordPress",
       "ville": "Lège Cap-Ferret",
@@ -49,8 +49,8 @@
       "description": "On crée des sites qui donnent envie d'entrer, pas juste une adresse en ligne.\nPour indépendants & TPE qui veulent être clairs, crédibles, sans galère technique.\n\n🔹Raconter, connecter, transformer : la stratégie digitale à visage humain🔹\n\nCo-fondateurs d'Alchimigo avec Marie Vas-Deyres, nous aidons les entrepreneurs et petites structures à (re)donner du sens à leur présence en ligne, grâce à des sites web qui racontent leur histoire et à des contenus qui créent de l'engagement.\n\nCe qui fait notre force :\n\n🔹Une vision stratégique et créative du web en duo : chaque projet démarre par l'écoute, l'analyse du besoin et la co-construction d'une identité digitale unique. Marie apporte son expertise technique et sa pédagogie, Igor sa créativité et sa capacité à fédérer.\n\n🔹Des parcours complémentaires faits de rencontres, de pivots et de collaborations qui nourrissent notre capacité à transmettre et à accompagner avec bienveillance.\n\nCe que nous apportons à nos clients :\n\n🔹Des sites web pensés pour convertir, mais aussi pour fidéliser et créer du lien, alliant rigueur technique et créativité débordante,\n\n🔹Une stratégie de contenu sur-mesure, pour sortir du lot et marquer les esprits,\n\n🔹Un accompagnement humain en binôme, où la pédagogie et la simplicité priment sur le jargon technique.\n\nNotre conviction :\n\nLe digital n'a de valeur que s'il sert une histoire, un projet, une ambition. Notre rôle : vous aider à clarifier votre message, à structurer votre présence, et à créer des connexions sincères.\n\n👉 Prêts à repenser votre stratégie digitale ou simplement curieux d'échanger ? Contactez-nous !",
       "lien1": "https://alchimigo.com",
       "lien1type": "site",
-      "lien2": null,
-      "lien2type": null,
+      "lien2": "https://www.linkedin.com/in/igor-alchimigo/",
+      "lien2type": "linkedin",
       "lien3": null,
       "lien3type": null,
       "email": "contact@alchimigo.com",
@@ -365,20 +365,20 @@
       "id": 20,
       "fondatrice": false,
       "photo": "https://drive.google.com/uc?export=view&id=1UwL8RXUJkMEKhK1ZIqq7WIuY-siB637e",
-      "nom": "Émilie Desvignes",
+      "nom": "Emilie Desvignes",
       "metier": "Artisane du lien familial et photographe",
       "ville": "Arès",
-      "signature": "Accompagnement à la parentalité et photographe",
+      "signature": "Artisane du lien familial",
       "description": "Comment préserver le lien parent-enfant et l'équilibre familial pendant les premières années de vie de l'enfant, photographe avec une préférence pour le noir et blanc",
-      "lien1": "https://www.instagram.com/mimiepoppinsmedia33740?igsh=MXg3a2l2ZWg3MTVkbw==",
+      "lien1": "https://www.instagram.com/naitreparents33740?stkn=MWZwNGduamFuajI2Yg==",
       "lien1type": "instagram",
-      "lien2": "https://www.facebook.com/share/1J5GTYs77N/",
-      "lien2type": "facebook",
+      "lien2": "https://www.instagram.com/mimiepoppinsmedia33740?stkn=MXg3a2l2ZWg3MTVkbw==",
+      "lien2type": "instagram",
       "lien3": null,
       "lien3type": null,
       "email": "magrydesvignesemilie@gmail.com",
       "telephone": null,
-      "intervention": "Nord bassin"
+      "intervention": "Bassin d'Arcachon"
     },
     {
       "id": 21,
@@ -476,5 +476,5 @@
       "intervention": "Nord Bassin d’Arcachon"
     }
   ],
-  "updated": "2026-09-18T13:01:24.220Z"
+  "updated": "2026-09-18T14:22:23.063Z"
 }
