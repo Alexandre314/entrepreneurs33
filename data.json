@@ -41,7 +41,7 @@
     {
       "id": 3,
       "fondatrice": false,
-      "photo": "https://drive.google.com/uc?export=view&id=1dbGIQ3dpR2tzXHAhPIz6WRtBQ-enXOr-",
+      "photo": null,
       "nom": "Igor VAS-DEYRES",
       "metier": "Webmaster WordPress",
       "ville": "Lège Cap-Ferret",
@@ -66,7 +66,7 @@
       "ville": "",
       "signature": "Agent immobilier",
       "description": "",
-      "lien1": "unjourunbien.com",
+      "lien1": "https://unjourunbien.com",
       "lien1type": "site",
       "lien2": null,
       "lien2type": null,
@@ -476,5 +476,5 @@
       "intervention": "Nord Bassin d’Arcachon"
     }
   ],
-  "updated": "2026-09-18T12:59:10.921Z"
+  "updated": "2026-09-18T13:01:24.220Z"
 }
